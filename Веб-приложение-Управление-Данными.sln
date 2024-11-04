@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Веб-приложение-Управление-Данными", "Веб-приложение-Управление-Данными\Веб-приложение-Управление-Данными.csproj", "{F7A02FA4-01AA-487C-8138-1C11EA26E1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7A02FA4-01AA-487C-8138-1C11EA26E1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A02FA4-01AA-487C-8138-1C11EA26E1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A02FA4-01AA-487C-8138-1C11EA26E1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A02FA4-01AA-487C-8138-1C11EA26E1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D19B92-634C-4E0C-9408-E46CAE300AC0}
+	EndGlobalSection
+EndGlobal
